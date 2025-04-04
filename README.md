@@ -49,8 +49,8 @@ O **Board de Tarefas** é uma aplicação web desenvolvida com Java e Spring Boo
 ### Clonando o Repositório
 
 ```bash
-git clone https://github.com/mauriciogonrails/task-board.git
-cd task-board
+git clone https://github.com/guerrastech/BoardTask.git
+cd BoardTask
 ```
 
 ### Configurando o Banco de Dados
